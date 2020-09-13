@@ -3,6 +3,7 @@ import "./header.scss";
 import { Link } from "react-router-dom";
 import { ReactComponent as Logo } from "../../assets/linux.svg";
 
+
 const Header = () =>(
     <div className="header">
         <Link to ="/" className="logo-container">
