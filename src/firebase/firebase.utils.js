@@ -13,6 +13,8 @@ const config ={
     measurementId: "G-NVVM412LB7"
   };
 
+  
+
   firebase.initializeApp(config);
 
   export const auth = firebase.auth();
