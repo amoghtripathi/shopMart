@@ -33,7 +33,7 @@ class App extends React.Component {
   }
 
   componentWillUnmount(){
-    this.unsubscribeFromAuth();
+    this.unsubscribeFromAuth(); 
   }
 
   render(){
@@ -60,3 +60,5 @@ const mapDispatchToProps = dispatch => ({
 });
  
 export default connect(mapStateToProps, mapDispatchToProps)(App);
+
+
