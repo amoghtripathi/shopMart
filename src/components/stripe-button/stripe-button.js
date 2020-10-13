@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({ price }) => {
           name='Clothina'
           billingAddress
           shippingAddress
-          image='https://svgshare.com/i/CUz.svg'
+          image='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEKu9gkYBw8cCKl_GAS1ZuJfUZdIrHS4Fogw&usqp=CAU'
           description={`Your total is $${price}`}
           amount={priceForStripe}
           panelLabel='Pay Now'
@@ -25,3 +25,5 @@ const StripeCheckoutButton = ({ price }) => {
         />
       );
 };
+
+export default StripeCheckoutButton;
