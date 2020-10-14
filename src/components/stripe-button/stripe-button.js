@@ -18,7 +18,7 @@ const StripeCheckoutButton = ({ price }) => {
           billingAddress
           shippingAddress
           image='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEKu9gkYBw8cCKl_GAS1ZuJfUZdIrHS4Fogw&usqp=CAU'
-          description={`Your total is $${price}`}
+          description={`Your total is ₹${price}`}
           amount={priceForStripe}
           panelLabel='Pay Now'
           token={onToken}
