@@ -2,32 +2,32 @@ const INITIAL_STATE = {
     sections: [
       {
         title: 'hats',
-        imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/913/334/png-clipart-beanie-ski-cap-beanie-cap-thumbnail.png',
         id: 1,
         linkUrl: 'shop/hats'
       },
       {
         title: 'jackets',
-        imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/77/368/png-transparent-leather-jacket-flight-jacket-collar-jacket-levis-zipper-leather-black-thumbnail.png',
         id: 2,
         linkUrl: 'shop/jackets'
       },
       {
         title: 'sneakers',
-        imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/204/209/png-clipart-unpaired-black-white-and-red-air-jordan-shoe-air-jordan-shoe-sneakers-nike-jordan-spizike-air-jordan-basketball-shoes-white-fashion-thumbnail.png',
         id: 3,
         linkUrl: 'shop/sneakers'
       },
       {
         title: 'womens',
-        imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/177/721/png-transparent-dress-t-shirt-see-through-clothing-floral-dress-s-orange-fashion-vintage-clothing-thumbnail.png',
         size: 'large',
         id: 4,
         linkUrl: 'shop/womens'
       },
       {
         title: 'mens',
-        imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/382/866/png-transparent-suit-shirt-tangzhuang-clothing-jacket-men-s-costume-shirt-burgundy-dragon-tshirt-chinese-style-dragon-thumbnail.png',
         size: 'large',
         id: 5,
         linkUrl: 'shop/mens'
