@@ -20,7 +20,7 @@ const INITIAL_STATE = {
       },
       {
         title: 'womens',
-        imageUrl: 'https://w7.pngwing.com/pngs/177/721/png-transparent-dress-t-shirt-see-through-clothing-floral-dress-s-orange-fashion-vintage-clothing-thumbnail.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/890/454/png-transparent-blouse-elegant-floral-blouse-thumbnail.png',
         size: 'large',
         id: 4,
         linkUrl: 'shop/womens'
