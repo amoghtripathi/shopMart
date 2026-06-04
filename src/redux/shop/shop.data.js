@@ -129,25 +129,25 @@ const SHOP_DATA = {
       {
         id: 19,
         name: 'Blue Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/83/52/png-transparent-denim-jeans-t-shirt-jean-jacket-jeans-blue-textile-material-thumbnail.png',
         price: 90
       },
       {
         id: 20,
         name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/127/121/png-transparent-denim-t-shirt-sleeve-jeans-t-shirt-textile-fashion-grey-thumbnail.png',
         price: 90
       },
       {
         id: 21,
         name: 'Brown Shearling',
-        imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/85/86/png-transparent-long-sleeved-t-shirt-long-sleeved-t-shirt-dress-shirt-t-shirt-thumbnail.png',
         price: 165
       },
       {
         id: 22,
         name: 'Tan Trench',
-        imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+        imageUrl: 'https://e1.pngegg.com/pngimages/259/55/png-clipart-baekhyun-universe-man-in-brown-trench-coat-thumbnail.png',
         price: 185
       }
     ]
