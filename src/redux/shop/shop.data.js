@@ -7,55 +7,55 @@ const SHOP_DATA = {
       {
         id: 1,
         name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/205/908/png-clipart-brown-curved-brim-cap-red-baseball-cap-sports-baseball-thumbnail.png',
         price: 25
       },
       {
         id: 2,
         name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/877/586/png-clipart-beanie-knit-cap-woolen-knitting-beanie-blue-woolen-thumbnail.png',
         price: 18
       },
       {
         id: 3,
         name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/571/699/png-clipart-cowboy-hat-brown-fedora-cowboy-hat-pic-hat-outdoor-recreation-thumbnail.png',
         price: 35
       },
       {
         id: 4,
         name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+        imageUrl: 'https://png.pngtree.com/png-vector/20250429/ourmid/pngtree-simple-grey-baseball-cap-png-image_16145370.png',
         price: 25
       },
       {
         id: 5,
         name: 'Green Beanie',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/913/334/png-clipart-beanie-ski-cap-beanie-cap-thumbnail.png',
         price: 18
       },
       {
         id: 6,
         name: 'Palm Tree Cap',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
+        imageUrl: 'https://i.ebayimg.com/images/g/EiMAAOSwHtBmbn45/s-l400.jpg',
         price: 14
       },
       {
         id: 7,
         name: 'Red Beanie',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/804/936/png-clipart-chicago-red-stars-knit-cap-beanie-hat-beanie-hat-woolen-thumbnail.png',
         price: 18
       },
       {
         id: 8,
         name: 'Wolf Cap',
-        imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/940/311/png-clipart-baseball-cap-hat-clothing-headgear-baseball-cap-purple-hat-thumbnail.png',
         price: 14
       },
       {
         id: 9,
         name: 'Blue Snapback',
-        imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/657/966/png-clipart-baseball-cap-snapback-visor-baseball-cap-blue-hat-thumbnail.png',
         price: 16
       }
     ]
@@ -68,49 +68,49 @@ const SHOP_DATA = {
       {
         id: 10,
         name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/668/513/png-clipart-adidas-nmd-r1-pk-tricolor-mens-adidas-sneakers-adidas-nmd-r1-stlt-pk-adidas-nmd-r1-primeknit-footwear-adidas-white-outdoor-shoe-thumbnail.png',
         price: 220
       },
       {
         id: 11,
         name: 'Adidas Yeezy',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/38/996/png-clipart-sneakers-adidas-yeezy-shoe-clothing-adidas-thumbnail.png',
         price: 280
       },
       {
         id: 12,
         name: 'Black Converse',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/372/993/png-clipart-chuck-taylor-all-stars-high-top-converse-sneakers-shoe-tow-mater-white-converse-thumbnail.png',
         price: 110
       },
       {
         id: 13,
-        name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+        name: 'Nike Blue AirForce',
+        imageUrl: 'https://e7.pngegg.com/pngimages/480/849/png-clipart-unpaired-blue-and-orange-nike-running-shoe-nike-free-air-force-shoe-sneakers-nike-shoes-background-blue-fashion-thumbnail.png',
         price: 160
       },
       {
         id: 14,
         name: 'Nike Red High Tops',
-        imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/215/792/png-clipart-air-jordan-5-retro-raging-bull-red-suede-2009-mens-sneakers-nike-air-jordan-5-retro-men-s-shoe-retro-style-nike-thumbnail.png',
         price: 160
       },
       {
         id: 15,
         name: 'Nike Brown High Tops',
-        imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/911/552/png-clipart-sports-shoes-air-force-1-nike-dunk-nike-brown-outdoor-shoe-thumbnail.png',
         price: 160
       },
       {
         id: 16,
         name: 'Air Jordan Limited',
-        imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/204/209/png-clipart-unpaired-black-white-and-red-air-jordan-shoe-air-jordan-shoe-sneakers-nike-jordan-spizike-air-jordan-basketball-shoes-white-fashion-thumbnail.png',
         price: 190
       },
       {
         id: 17,
         name: 'Timberlands',
-        imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/997/714/png-clipart-sneakers-leather-the-timberland-company-boot-shoe-everyday-casual-shoes-thumbnail.png',
         price: 200
       }
     ]
