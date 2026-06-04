@@ -123,7 +123,7 @@ const SHOP_DATA = {
       {
         id: 18,
         name: 'Black Jean Shearling',
-        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/77/368/png-transparent-leather-jacket-flight-jacket-collar-jacket-levis-zipper-leather-black-thumbnail.png',
         price: 125
       },
       {
