@@ -160,43 +160,43 @@ const SHOP_DATA = {
       {
         id: 23,
         name: 'Blue Tanktop',
-        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/893/900/png-transparent-t-shirt-hoodie-top-clothing-sleeve-t-shirt-tshirt-blue-white-thumbnail.png',
         price: 25
       },
       {
         id: 24,
         name: 'Floral Blouse',
-        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/890/454/png-transparent-blouse-elegant-floral-blouse-thumbnail.png',
         price: 20
       },
       {
         id: 25,
         name: 'Floral Dress',
-        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/177/721/png-transparent-dress-t-shirt-see-through-clothing-floral-dress-s-orange-fashion-vintage-clothing-thumbnail.png',
         price: 80
       },
       {
         id: 26,
         name: 'Red Dots Dress',
-        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/905/973/png-transparent-women-s-red-and-black-polka-dot-halterdres-1950s-dress-halterneck-clothing-polka-dot-women-dress-fashion-cloth-vintage-clothing-thumbnail.png',
         price: 80
       },
       {
         id: 27,
         name: 'Striped Sweater',
-        imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/776/258/png-transparent-juilliard-school-mohair-t-shirt-sweater-clothing-colored-stripes-fashion-woolen-top-thumbnail.png',
         price: 45
       },
       {
         id: 28,
         name: 'Yellow Track Suit',
-        imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
+        imageUrl: 'https://png.pngtree.com/png-vector/20260206/ourlarge/pngtree-blank-mustard-yellow-toddler-tracksuit-template-flat-lay-on-white-background-png-image_18753444.webp',
         price: 135
       },
       {
         id: 29,
         name: 'White Blouse',
-        imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/541/813/png-clipart-blouse-white-shirt-sleeve-clothing-shirt-woman-waistcoat-thumbnail.png',
         price: 20
       }
     ]
@@ -209,38 +209,44 @@ const SHOP_DATA = {
       {
         id: 30,
         name: 'Camo Down Vest',
-        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
+        imageUrl: 'https://images-static.nykaa.com/media/catalog/product/8/d/8d4ddc0JJ205406401_6.jpg?tr=w-500',
         price: 325
       },
       {
         id: 31,
         name: 'Floral T-shirt',
-        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/258/315/png-transparent-printed-t-shirt-hoodie-top-floral-shirt-tshirt-paw-jersey-thumbnail.png',
         price: 20
       },
       {
         id: 32,
         name: 'Black & White Longsleeve',
-        imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
+        imageUrl: 'https://e7.pngegg.com/pngimages/880/1003/png-clipart-black-and-white-long-sleeved-shirt-t-shirt-raglan-sleeve-gildan-activewear-collar-t-shirts-tshirt-white-thumbnail.png',
         price: 25
       },
       {
         id: 33,
         name: 'Pink T-shirt',
-        imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
+        imageUrl: 'https://w7.pngwing.com/pngs/996/236/png-transparent-t-shirt-sleeve-clothing-leggings-polo-tshirt-fashion-active-shirt-thumbnail.png',
         price: 25
       },
       {
         id: 34,
-        name: 'Jean Long Sleeve',
-        imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
+        name: 'RedBlack Long Sleeve',
+        imageUrl: 'https://w7.pngwing.com/pngs/1/283/png-transparent-t-shirt-hoodie-kevlar-lumberjack-shirt-t-shirt-tartan-motorcycle-hoodie-thumbnail.png',
         price: 40
       },
       {
         id: 35,
-        name: 'Burgundy T-shirt',
-        imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+        name: 'Gorilla Slim-fit T-shirt',
+        imageUrl: 'https://w7.pngwing.com/pngs/818/368/png-transparent-t-shirt-clothing-sleeve-slim-fit-pants-gorilla-tshirt-animals-active-shirt-thumbnail.png',
         price: 25
+      },
+      {
+        id: 36,
+        name: 'Tangzhuang Jacket',
+        imageUrl: 'https://w7.pngwing.com/pngs/382/866/png-transparent-suit-shirt-tangzhuang-clothing-jacket-men-s-costume-shirt-burgundy-dragon-tshirt-chinese-style-dragon-thumbnail.png',
+        price: 80
       }
     ]
   }
