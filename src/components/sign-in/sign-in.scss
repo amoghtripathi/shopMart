@@ -1,16 +1,26 @@
 .sign-in {
-    width: 380px;
-    display: flex;
-    flex-direction: column;
+  width: 100%;
+  max-width: 400px; 
+  display: flex;
+  flex-direction: column;
 
-    .title{
-      margin: 10px, 0;
-    }
-    
-    .buttons{
-      display: flex;
-      justify-content: space-between;
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sign-in {
+    width: 100%;
+
+    .buttons {
+      flex-direction: column;
+
+      button {
+        width: 100%;
+      }
     }
   }
-
-  
+}

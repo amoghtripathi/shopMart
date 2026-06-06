@@ -1,9 +1,12 @@
-.sign-up{
-    display: flex;
-    flex-direction: column;
-    width: 380px;
+.sign-up {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+}
 
-    .title{
-        margin: 10px 0;;
-    }
+@media (max-width: 768px) {
+  .sign-up {
+    width: 100%;
+  }
 }

@@ -39,3 +39,18 @@
       cursor: pointer;
     }
   }
+  @media (max-width: 768px) {
+  .checkout-item {
+    font-size: 14px;
+
+    .image-container {
+      width: 25%;
+    }
+
+    .name,
+    .quantity,
+    .price {
+      width: 20%;
+    }
+  }
+}
