@@ -16,7 +16,7 @@ const CheckoutPage = ({ cartItems, total, clearCart }) => {
   try {
 
     const response = await fetch(
-      "http://localhost:5000/create-order",
+  `${process.env.REACT_APP_API_URL}/create-order`,
       {
         method: "POST",
         headers: {
@@ -31,7 +31,7 @@ const CheckoutPage = ({ cartItems, total, clearCart }) => {
     const order = await response.json();
 
     const options = {
-      key: "rzp_test_SyUF1hfkfWk3bk",
+      key: process.env.REACT_APP_RAZORPAY_KEY_ID,
 
       amount: order.amount,
 

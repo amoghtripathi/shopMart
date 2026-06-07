@@ -14,6 +14,10 @@ const razorpay = new Razorpay({
   key_secret: process.env.RAZORPAY_KEY_SECRET,
 });
 
+app.get("/", (req, res) => {
+  res.send("ShopMart API is running");
+});
+
 app.post("/create-order", async (req, res) => {
   try {
     const { amount } = req.body;
