@@ -49,4 +49,16 @@ const provider = new firebase.auth.GoogleAuthProvider();
 provider.setCustomParameters({ prompt: 'select_account' });
 export const signInWithGoogle = () => auth.signInWithPopup(provider);
 
+export const saveOrderToFirestore = async (orderData) => {
+  try {
+    const ordersRef = firestore.collection('orders');
+
+    await ordersRef.add(orderData);
+
+    console.log('Order saved successfully');
+  } catch (error) {
+    console.error('Error saving order:', error);
+  }
+};
+
 export default firebase;
